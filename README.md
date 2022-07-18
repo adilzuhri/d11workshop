@@ -20,3 +20,4 @@
 8. git branch -a
 9. git branch -delete <branch name>
 10. git checkout -b develop master
+11. git merge develop (combining main with branch)
