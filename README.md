@@ -21,3 +21,5 @@
 9. git branch -delete <branch name>
 10. git checkout -b develop master
 11. git merge develop (combining main with branch)
+12. git merge main (merge changed done in main branch into develop branch)
+13. git push -u origin develop
